@@ -293,7 +293,7 @@
 	   <td>TCMLLM-PR</td><td>0.3528 </td><td>0.1140 </td><td>0.1714 </td><td>0.3770 </td><td>0.2444 </td><td>0.2946 </td><td>0.3090 </td><td>0.3999 </td><td>0.3463 </td>
 	</tr>
 <tr >
-	    <td rowspan="3">All</td>
+	    <td rowspan="3">Mixed</td>
 	    <td>PTM(d)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
 	</tr>
 	<tr>
