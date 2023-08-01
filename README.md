@@ -214,7 +214,7 @@
 	</tr >
 	<tr >
 	    <td rowspan="3">CMCC</td>
-	    <td>PTM(d)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	    <td>PTM(d)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
 	</tr>
 	<tr>
 	    <td>TCMPR</td><td>0.3098</td><td>0.1314</td><td>0.1845</td><td>0.2531</td><td>0.2116</td><td>0.2305</td><td>0.1868</td><td>0.3085</td><td>0.2327</td>
@@ -352,6 +352,8 @@
 </table>
 注：处方推荐任务交叉验证指在Dataset1的训练集进行大模型指令微调，使用Dataset2的测试集进行性能测试。
 
+#### 模型训练效果
+![image](https://github.com/2020MEAI/TCM-LLM/assets/75461468/e76357c8-f973-47b1-bf1c-f7039ba38b41)
 
 
 ## 项目参与者
