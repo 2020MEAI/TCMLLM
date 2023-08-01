@@ -353,7 +353,8 @@
 注：处方推荐任务交叉验证指在Dataset1的训练集进行大模型指令微调，使用Dataset2的测试集进行性能测试。
 
 #### 模型训练效果
-![image](https://github.com/2020MEAI/TCMLLM/assets/75461468/898da7dd-50ae-4c9e-a34e-f8684d7692b8)
+![image](https://github.com/2020MEAI/TCMLLM/assets/75461468/408bc2bd-b8dd-4800-8743-d91093f14709)
+
 
 
 
