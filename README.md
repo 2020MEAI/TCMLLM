@@ -21,7 +21,7 @@
 
 1. 首先需要下载[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)原始模型代码和参数，并配置依赖环境
 2. 下载 TCMLLM 模型参数，将checkpoint压缩文件解压到 ChatGLM-6B/ptuning/ 路径下
-	百度网盘链接: https://pan.baidu.com/s/1QFx-206Ww9Xt-7_Z0RF85g 提取码: iwg3 
+ + 百度网盘链接: https://pan.baidu.com/s/1QFx-206Ww9Xt-7_Z0RF85g 提取码: iwg3 
 
 
   
