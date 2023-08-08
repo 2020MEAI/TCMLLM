@@ -66,7 +66,7 @@
 		<td>糖尿病</td><td>Diabetes</td><td>8k</td><td>中医医院3</td><td>494k</td><td>262k</td><td>756k</td>
 	</tr>
 	<tr>
-		<td>肝病</td><td>Liver</td><td>2k</td><td>中医医院4</td><td>494k</td><td>262k</td><td>756k</td>
+		<td>肝病</td><td>Liver</td><td>2k</td><td>中医医院4</td><td>86k</td><td>116k</td><td>202k</td>
 	</tr>
 	<tr>
 		<td>脾胃病</td><td>SSD</td><td>17k</td><td>中医医院5</td><td>2M</td><td>2M</td><td>4M</td>
