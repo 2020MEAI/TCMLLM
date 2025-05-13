@@ -380,13 +380,15 @@
 
 如果你使用了本项目的数据或者代码，请声明引用
 
-	  @misc{alpaca,
-	  author={Xuezhong Zhou,Kuo Yang,Haoyu Tian,Xin Dong,Kuan Xu,Rui Hua},
-	  title = {TCMLLM},
-	  year = {2023},
-	  publisher = {GitHub},
-	  journal = {GitHub repository},
-	  howpublished = {\url{https://github.com/2020MEAI/TCMLLM}},
-	}
+@article{haoyu2024tcmllm,
+  title={TCMLLM-PR: evaluation of large language models for prescription recommendation in traditional Chinese medicine},
+  author={Haoyu, TIAN and Kuo, YANG and Xin, DONG and Chenxi, ZHAO and Mingwei, YE and Hongyan, WANG and Yiming, LIU and Minjie, HU and Qiang, ZHU and Jian, YU and others},
+  journal={Digital Chinese Medicine},
+  volume={7},
+  number={4},
+  pages={343--355},
+  year={2024},
+  publisher={Elsevier}
+}
 
 
