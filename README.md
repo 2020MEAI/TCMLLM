@@ -379,7 +379,7 @@
 ## Citation
 
 如果你使用了本项目的数据或者代码，请声明引用
-
+```
 @article{haoyu2024tcmllm,
   title={TCMLLM-PR: evaluation of large language models for prescription recommendation in traditional Chinese medicine},
   author={Haoyu, TIAN and Kuo, YANG and Xin, DONG and Chenxi, ZHAO and Mingwei, YE and Hongyan, WANG and Yiming, LIU and Minjie, HU and Qiang, ZHU and Jian, YU and others},
@@ -390,5 +390,4 @@
   year={2024},
   publisher={Elsevier}
 }
-
-
+```
