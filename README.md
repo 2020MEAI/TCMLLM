@@ -13,7 +13,8 @@
 
 
 ### 更新日志
-**[2023/08/01] 面向处方推荐的大模型TCMLLM-PR**
+**[2025/05/26] 更新TCMLLM 输出文件以及数据示例**
+[2023/08/01] 面向处方推荐的大模型TCMLLM-PR
 
 [2023/06] 项目启动
 
@@ -22,7 +23,8 @@
 1. 首先需要下载[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)原始模型代码和参数，并配置依赖环境
 2. 下载 TCMLLM 模型参数，将checkpoint压缩文件解压到 ChatGLM-6B/ptuning/ 路径下
  + 百度网盘链接: https://pan.baidu.com/s/1QFx-206Ww9Xt-7_Z0RF85g 提取码: iwg3 
-
+3. 下载本项目中的 data/ 下的数据示例文件到 ptuning/ 目录下
+4. 下载本项目中的 TCMLLM_output_demo.py到 ptuning/ 目录下,并配置好文件内的各文件路径以及数据路径，即可批量测试输出。
 
   
 ### 指令微调数据集
